@@ -2,9 +2,9 @@
 (function() {
   var DIST, SIDE, height, svg, vis, width;
 
-  SIDE = 9;
+  SIDE = 6;
 
-  DIST = 14;
+  DIST = 9;
 
   svg = d3.select('svg');
 
